@@ -1,4 +1,4 @@
-from ProtonMC.src.core.simulator import ProtonSimulator
+from ..src.core.simulator import ProtonSimulator
 import numpy as np
 import matplotlib.pyplot as plt
 
